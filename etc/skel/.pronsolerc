@@ -1,0 +1,20 @@
+set last_window_maximized True
+set last_window_width 1200
+set last_window_height 450
+set port /dev/ttyUSB0
+set last_sash_position 764
+set baudrate 115200
+set build_dimensions 200.00x200.00x200.00+0.00+0.00+0.00+0.00+0.00+0.00
+set extruders 1
+set slic3rintegration True
+set slic3rupdate True
+set slicecommand /opt/i3/Slic3r/bin/slic3r $s --output $o
+set sliceoptscommand /opt/i3/Slic3r/bin/slic3r
+set tempgauges True
+set viz3d False
+set mainviz 2D
+set last_temperature 185.0
+set xy_feedrate 3000
+set z_feedrate 100
+set e_feedrate 100
+
