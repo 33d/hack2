@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Pronterface
+GenericName=Printer Interface
+Comment=Controls your 3D printer
+Icon=/opt/i3/Printrun/pronterface.png
+Exec=/opt/i3/Printrun/pronterface.py %f
+Path=/opt/i3/Printrun
+StartupNotify=true
+Terminal=false
+Categories=GNOME;GTK;Utility;Graphics;3DGraphics;
+MimeType=text/plain;application/octet-stream;application/sla;
